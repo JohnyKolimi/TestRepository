@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47" started-at="2019-11-19T19:52:26 IST" finished-at="2019-11-19T19:52:26 IST">
+  <suite name="Default suite" duration-ms="56" started-at="2019-11-20T22:45:54 IST" finished-at="2019-11-20T22:45:54 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47" started-at="2019-11-19T19:52:26 IST" finished-at="2019-11-19T19:52:26 IST">
-      <class name="JavaStringPrograms.ReverseString2">
-        <test-method status="PASS" signature="reverseString()[pri:0, instance:JavaStringPrograms.ReverseString2@31610302]" name="reverseString" duration-ms="15" started-at="2019-11-19T19:52:26 IST" finished-at="2019-11-19T19:52:26 IST">
+    <test name="Default test" duration-ms="56" started-at="2019-11-20T22:45:54 IST" finished-at="2019-11-20T22:45:54 IST">
+      <class name="JavaStringPrograms.ReverseString">
+        <test-method status="PASS" signature="ReverseStringWithByteArray()[pri:0, instance:JavaStringPrograms.ReverseString@31610302]" name="ReverseStringWithByteArray" duration-ms="13" started-at="2019-11-20T22:45:54 IST" finished-at="2019-11-20T22:45:54 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- reverseString -->
-      </class> <!-- JavaStringPrograms.ReverseString2 -->
+        </test-method> <!-- ReverseStringWithByteArray -->
+      </class> <!-- JavaStringPrograms.ReverseString -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
