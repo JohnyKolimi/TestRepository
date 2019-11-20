@@ -2,9 +2,12 @@
 
 package JavaStringPrograms;
 
+import org.testng.annotations.Test;
+
 public class ReverseString {
 
-	public static void main(String[] args) {
+	@Test
+	public void ReverseStringWithByteArray() {
 		// TODO Auto-generated method stub
 
 		String input="Hello World";
