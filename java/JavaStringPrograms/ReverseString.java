@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 //@Author : Johny
-=======
-//@Author : Johny Hussain
->>>>>>> branch 'master' of https://github.com/JohnyKolimi/TestRepository.git
 // Java program to ReverseString using ByteArray. 
 
 package JavaStringPrograms;
