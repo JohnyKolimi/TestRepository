@@ -1,4 +1,4 @@
-//@Author : Johny
+//@Author : Johny Hussain
 // Java program to ReverseString using ByteArray. 
 
 package JavaStringPrograms;
