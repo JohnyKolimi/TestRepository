@@ -1,3 +1,6 @@
+//@Author : Johny Hussain
+// Java program to ReverseString using CharArray. 
+
 package JavaStringPrograms;
 
 import org.testng.annotations.Test;
