@@ -23,7 +23,9 @@ public class ReverseString {
 			
 		}
 		
+
 		System.out.println(new String(result));
+	
 	}
 
 }
