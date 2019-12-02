@@ -1,3 +1,5 @@
+// Author: Johny
+
 package JavaStarPattern;
 
 import org.testng.annotations.Test;
