@@ -8,18 +8,29 @@ import org.testng.annotations.Test;
 public class ReverseString2 {
 
 	@Test
-	public void reverseString()
+	public void reverseEachWordOfAString()
 	{
-		String input="Hello world";
+		String str="Welcome to coding world";
 		
-		char[] charArray=input.toCharArray();
+		String revstr="";
 		
-		for(int i=charArray.length-1;i>=0;i--)
+		String[] strArray=str.split(" ");
+		
+		System.out.println("String divided into "+strArray.length+" words.");
+		
+		for(int i=0;i<=strArray.length-1;i++) 
 		{
-			System.out.print(charArray[i]);
+			String word=strArray[i];
+			String revword="";
+			
+			for(int j=word.length()-1;j>=0;j--)
+			{
+				revword=revword+word.charAt(j);
+			}
+			
+			revstr=revstr+revword+" ";
 		}
-		   
-		System.out.println();
 		
+		System.out.println(revstr);
 	}
 }

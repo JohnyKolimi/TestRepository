@@ -11,12 +11,22 @@ public class ReverseString1 {
 	{
 		String input="Welcome to JAVA world";
 		
-		StringBuilder input1= new StringBuilder();
-		
-		input1.append(input);
-		
+		StringBuilder input1= new StringBuilder(input);
+				
 		input1=input1.reverse();
 		
 		System.out.println(input1);
+					
+	}
+	@Test
+	public void reverseStringWithStrinBuffer()
+	{
+		String input="Welcome to Automation";
+		
+        StringBuffer input2=new StringBuffer(input);
+		
+		input2=input2.reverse();
+		
+		System.out.println(input2);
 	}
 }
