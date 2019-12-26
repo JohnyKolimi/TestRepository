@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="52" started-at="2019-12-23T20:08:38 IST" finished-at="2019-12-23T20:08:39 IST">
+  <suite name="Default suite" duration-ms="51" started-at="2019-12-23T21:30:43 IST" finished-at="2019-12-23T21:30:43 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="52" started-at="2019-12-23T20:08:38 IST" finished-at="2019-12-23T20:08:39 IST">
+    <test name="Default test" duration-ms="51" started-at="2019-12-23T21:30:43 IST" finished-at="2019-12-23T21:30:43 IST">
       <class name="JavaStringPrograms.ReverseString2">
-        <test-method status="PASS" signature="reverseEachWordOfAString()[pri:0, instance:JavaStringPrograms.ReverseString2@31dc339b]" name="reverseEachWordOfAString" duration-ms="12" started-at="2019-12-23T20:08:39 IST" finished-at="2019-12-23T20:08:39 IST">
+        <test-method status="PASS" signature="reverseEachWordOfAString()[pri:0, instance:JavaStringPrograms.ReverseString2@31dc339b]" name="reverseEachWordOfAString" duration-ms="11" started-at="2019-12-23T21:30:43 IST" finished-at="2019-12-23T21:30:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reverseEachWordOfAString -->
